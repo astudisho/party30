@@ -42,7 +42,7 @@
   font-size: 15px;
   }
   
-  RESPONSIVE
+  /* RESPONSIVE */
   @media(max-width: 991px){
   .menu1 {
   display: none;

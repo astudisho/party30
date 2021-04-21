@@ -1,0 +1,11 @@
+.text{
+text-align: center;
+}
+body {
+    /* font-family: 'Montserrat', sans-serif; */
+    min-height: 100vh;
+    /* position: relative; */
+}
+iframe {
+    width: 100%;
+}
